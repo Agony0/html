@@ -1,0 +1,232 @@
+
+*{
+    padding:0;
+    margin:0;
+}
+li{
+    list-style:none;
+}
+a{
+    text-decoration:none;
+}
+.head{
+    font-size:0.8em;
+    padding-top:6px;
+    border:none;
+    height:26px;
+    background:url(图片/QQ.png) no-repeat 300px center;
+    background-color:#f5f5f5;
+}
+.span1{
+    padding-left:160px;
+}
+.span2{
+    padding-left:27px;
+}
+.span3{
+    padding-left:900px;
+}
+.b:link{
+    color:black;}
+.headl{
+    font-size:0.8em;
+    padding-top:6px;
+    border:none;
+    height:100px;
+    background:url(图片/商标.png) no-repeat 160px center;
+}
+.box{
+    float:right;
+    width: 380px;
+    padding-left:-40px;
+    margin: 40px auto;
+    font-size: 14px;
+    }
+input{
+    width: 260px;
+    border: 1px solid #f83838;
+    height: 30px;
+    float: left;
+    background-size: 25px;
+    background-position:5px center;
+    padding:0 0 0 40px;
+}
+.search{
+    width: 78px;
+    height: 32px;
+    float: right;
+    background:#f83838;
+    color: white;
+    text-align: center;
+    line-height: 32px;
+    cursor: pointer;
+}
+.box1{
+    padding-left:39px;
+    padding-top:10px;
+    float:right;
+    width: 98px;
+    height:32px;
+    margin:40px 200px 34px 350px;
+    font-size: 14px;
+    background:url(图片/购物车.png) no-repeat 20px center;
+    background-color:#f5f5f5;
+    }
+.redp{
+    color:red;
+}
+.box2{
+    padding-top:2px;
+    text-align:center;
+    height:28px;
+    border:none;
+}
+.box3{
+    padding-left:160px;
+    height:24px;
+    width:70px;
+}
+.box4{
+    padding-left:60px;
+    height:24px;
+    width:70px;
+}
+.box2 span a{
+    position:absolute;
+    height:24px;
+    width:70px;
+    color:black;
+}
+.box2 span a:hover{
+    border-radius:4px;
+    color:white;
+    background-color:#f83838;
+}
+.nav{
+    height:760px;
+    background-color:#fbfbfb;
+}
+.navspan{
+    height:30px;
+    margin-top:20px;
+    padding-left:160px;
+    font-size:14px;
+}
+.nav1{
+    float:left;
+    margin:29px 22px 0 220px;
+    width:200px;
+    height:700px;
+    background-color:#fbfbfb;
+}
+.nav2{
+    padding-top:10px;
+    padding-left:70px;
+    width:180px;
+    height:30px;
+    background:url(图片/目录.png) no-repeat 25px center;
+    background-color:#ffffff;
+}
+.nav3{
+    font-size:14px;
+    margin-top:10px;
+    padding-left:70px;
+    width:180px;
+    height:640px;
+    background-color:#ffffff;
+}
+.nav3 li{
+    padding-top:15px;
+}
+.nav3 li a{
+    color:black;
+}
+.nav3 li a:visited{
+    color:#f83838;
+}
+.nba1{
+    margin-top:29px;
+    margin-left:40px;
+    padding-left:60px;
+    float:left;
+    width:950px;
+    height:700px;
+    background-color:#ffffff;
+}
+.nba{
+    width:1050px;
+    height:350px;
+}
+.nba2{
+    margin:10px;
+    float:left;
+    width:200px;
+    height:300px;
+    border:1px solid #ccc;
+    border-radius:1px;
+}
+.sm1{
+    margin-top:10px;
+    width:200px;
+    height:200px;
+    background:url(图片/辣椒.png) no-repeat 50px center;
+
+}
+.sm2{
+    margin-top:10px;
+    width:200px;
+    height:200px;
+    background:url(图片/百香果.png) no-repeat 34px center;
+
+}
+.sm3{
+    margin-top:10px;
+    width:200px;
+    height:200px;
+    background:url(图片/酒.png) no-repeat 80px center;
+
+}
+.sm4{
+    margin-top:10px;
+    width:200px;
+    height:200px;
+    background:url(图片/松子.png) no-repeat 20px center;
+
+}
+.lo1{
+    margin-top:12px;
+    height:20px;
+    width:200px;
+    text-align:center;
+    font-size:14px;
+    color:#d4d4d4;
+}
+.lo2{
+    margin-top:8px;
+    height:15px;
+    width:200px;
+    text-align:center;
+    font-size:12px;
+}
+.sex{
+    height:260px;
+    background-color:#2e2e2e;
+}
+.sexsm{
+    padding-top:18px;
+}
+.sex1{
+    padding-left:200px;
+    color:white;
+}
+.sea{
+    margin-top:10px;
+}
+.sex2{
+    text-align:center;
+    font-size:16px;
+    color:#fbfbfb;
+}
+.sex2 p{
+    padding-top:20px;
+}
