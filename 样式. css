@@ -176,14 +176,14 @@ input{
     margin-top:10px;
     width:200px;
     height:200px;
-    background:url(图片/百香果.png) no-repeat 34px center;
+    background:url(图片/百香果.jpg) no-repeat 34px center;
 
 }
 .sm3{
     margin-top:10px;
     width:200px;
     height:200px;
-    background:url(图片/酒.png) no-repeat 80px center;
+    background:url(图片/酒.jpg) no-repeat 80px center;
 
 }
 .sm4{
